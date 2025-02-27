@@ -1,0 +1,5 @@
+string filename
+int64 duration
+
+---
+bool result
